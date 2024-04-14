@@ -1,0 +1,29 @@
+@use '../mixins/responsive.scss' as *;
+.main{
+    padding: 0 16px 80px;
+    background-image: linear-gradient(white, #F0F1FF);
+    @include responsive (tablet){
+        padding: 0 39px 86px;
+    }
+    @include responsive(desktop){
+        padding: 0 165px 86px;
+    }
+}
+
+.items{
+    display: grid;
+    grid-template-columns: 343px ;
+    gap: 2.5rem;
+
+    @include responsive (tablet){
+        width: 689px;
+        grid-template-columns: repeat(2, 339px) ;
+        gap: 56px 0.625rem  ;
+    }
+    @include responsive(desktop){
+        width: 1110px;
+        grid-template-columns: repeat(3, 350px);
+        grid-template-rows: repeat(2, 346px);
+        gap: 56px 30px;
+    }
+}

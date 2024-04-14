@@ -1,0 +1,23 @@
+@use '../mixins/responsive.scss' as *;
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    border-radius: 10px;
+    padding: 56px 28px 32px;
+    background-color: #fff;
+    box-shadow: 0 25px 50px #06168d0e;
+
+    &__icon{
+        position: absolute;
+        top: -24px;
+    }
+
+    @include responsive(tablet){
+        padding: 56px 16px 32px 32px;
+    }
+    @include responsive(desktop){
+        padding:64px 32px 40px ;
+    }
+}
