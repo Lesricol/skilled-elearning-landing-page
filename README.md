@@ -1,19 +1,15 @@
-# Título del proyecto
+Skilled elearning landing page
 
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://raw.githubusercontent.com/Lesricol/skilled-elearning-landing-page/main/design/preview.jpg))
 
 ## Ejemplo en vivo
 
 - [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
 - [URL-de-la-api](URL-de-la-api)
 
-## Descripción 📑
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
-
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+La primera web que he hecho utilizando sass
 
 ## Tecnologías 🛠
 
@@ -23,21 +19,11 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 
-## Vista previa del proyecto
-
-Si quieres echar un vistazo al proyecto, te recomiendo:
-
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-
 ## Autor ✒️
 
 **TU NOMBRE**
 
-- [micorreo@midominio.com](micorreo@midominio.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-- [Porfolio web](https://tu-dominio.com/)
+- [lessricc@gmail.com]
 
 ## Instalación
 
