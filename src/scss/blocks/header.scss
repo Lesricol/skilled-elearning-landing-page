@@ -3,11 +3,11 @@
   padding: 16px 16px 0;
   @include responsive(tablet) {
     padding: 24px 39px 0;
-    height: fit-content;
+    height: 630px;
     background-image: url(../../assets/images/image-hero-tablet.png);
     background-repeat: no-repeat;
     background-position: 375px -90px;
-    margin-bottom: 170px;
+    margin-bottom: 150px;
   }
   @include responsive(desktop) {
     padding: 38px 165px 0;
