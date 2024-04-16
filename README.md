@@ -1,6 +1,6 @@
 Skilled elearning landing page
 
-![Imagen del proyecto]([https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true](https://raw.githubusercontent.com/Lesricol/skilled-elearning-landing-page/main/design/preview.jpg))
+![Imagen del proyecto](https://raw.githubusercontent.com/Lesricol/skilled-elearning-landing-page/main/design/preview.jpg))
 
 ## Ejemplo en vivo
 
